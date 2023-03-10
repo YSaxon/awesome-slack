@@ -77,6 +77,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [blockkit](https://github.com/imryche/blockkit) - A fast way to build Block Kit interfaces in Python
 - [bolt-python](https://github.com/slackapi/bolt-python) - Slack's official Python framework for building Slack apps
+- [boltworks](https://github.com/YSaxon/boltworks) - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
 - [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) - Slack Events API adapter for Python 
